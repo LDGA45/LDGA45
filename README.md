@@ -82,14 +82,14 @@ I enjoy designing scalable applications, creating clean architectures, and devel
 ---
 
 ### 📈 GitHub Stats
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dlopez7483&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dlopez7483&layout=compact&theme=radical)
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LDGA45&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LDGA45&layout=compact&theme=radical)
 
 ---
 
 ### 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/dlopez7483)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/LDGA45)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
